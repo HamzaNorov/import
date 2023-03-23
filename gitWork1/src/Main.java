@@ -6,7 +6,7 @@ public class Main {
         System.out.print("Введите сумму в тенге: ");
         double tenge = input.nextDouble();
 
-        // Курсы обмена валют на 21 марта 2023 года
+        // Курсы обмена валют на 24 марта 2023 года
         double usdExchangeRate = 462.36;
         double eurExchangeRate = 493.48;
         double rubExchangeRate = 5.99;
